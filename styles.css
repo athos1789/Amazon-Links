@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: #37475a;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+}
+
+.container {
+  padding: 10% 7%;
+}
+
+.row {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.btn:hover {
+  background-color: #febd69;
+  border-color: #febd69;
+}
