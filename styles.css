@@ -1,11 +1,12 @@
 body {
   text-align: center;
-  background-color: #37475a;
+  background-color: #f1f3f4;
 }
 
 .btn {
   height: 200px;
   width: 200px;
+  background-color: #79bac1;
 }
 
 .container {
@@ -18,6 +19,6 @@ body {
 }
 
 .btn:hover {
-  background-color: #febd69;
-  border-color: #febd69;
+  background-color: #2a7886;
+  border-color: #2a7886;
 }
