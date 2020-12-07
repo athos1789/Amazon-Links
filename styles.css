@@ -116,7 +116,15 @@ button {
   background-image: url("images/barcodesGen.jpeg");
 }
 
-.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img11, .img12, .img13, .img14, .img15 {
+.dew2 {
+  background-image: url("images/dew2.jpg");
+}
+
+.djz5 {
+  background-image: url("images/djz5.jpg");
+}
+
+.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img11, .img12, .img13, .img14, .img15, .dew2, .djz5 {
   background-size: cover;
   background-position: center;
 }
